@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">URL Scheme Test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="webdomain">androidworld.it</string>
+    <string name="weburl">www.androidworld.it</string>
+    <string name="parameter">notizia</string>
+
+    <string name="toast">La notizia scelta è: %s</string>
+
+</resources>
